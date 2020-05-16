@@ -1,6 +1,6 @@
 {
   "name": "@johnny.reina/express-troll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Express middleware to redirect common admin or login paths to a custom URL. Rickrolls by default.",
   "main": "index.js",
   "directories": {
