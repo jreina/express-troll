@@ -2,6 +2,8 @@
 
 An Express middleware to redirect common admin or login paths to a custom URL. Rickrolls by default.
 
+Inspired by [a tweet](https://twitter.com/LiamHammett/status/1260984553570570240). Because why not.
+
 ## Installing
 
 ```bash
